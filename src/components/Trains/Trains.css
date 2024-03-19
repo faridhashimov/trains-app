@@ -1,0 +1,50 @@
+.trains, .characteristics {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.trains {
+    margin-right: 40px;
+}
+
+tbody a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.characteristics table {
+    text-align: center;
+}
+
+table caption {
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.trains tr {
+    cursor: pointer;
+}
+
+table thead {
+    background-color: #f6f8fa;
+    color: #9A9A99;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+table td {
+    width: 120px;
+}
+
+.characteristics table td {
+    width: 255px;
+}
+
+table thead td,
+table tbody td {
+    padding: 10px;
+    border-bottom: 2px solid #f6f8fa ;
+}

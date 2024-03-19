@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    margin: 0 auto;
+    width: 1210px;
+    background-color: #f6f8fa;
+    padding: 10px;
+}
